@@ -1,0 +1,15 @@
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\bin\Debug\net6.0\beatemup.exe
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\bin\Debug\net6.0\beatemup.deps.json
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\bin\Debug\net6.0\beatemup.runtimeconfig.json
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\bin\Debug\net6.0\beatemup.dll
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\bin\Debug\net6.0\beatemup.pdb
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\obj\Debug\net6.0\beatemup.csproj.AssemblyReference.cache
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\obj\Debug\net6.0\beatemup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\obj\Debug\net6.0\beatemup.AssemblyInfoInputs.cache
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\obj\Debug\net6.0\beatemup.AssemblyInfo.cs
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\obj\Debug\net6.0\beatemup.csproj.CoreCompileInputs.cache
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\obj\Debug\net6.0\beatemup.dll
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\obj\Debug\net6.0\refint\beatemup.dll
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\obj\Debug\net6.0\beatemup.pdb
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\obj\Debug\net6.0\beatemup.genruntimeconfig.cache
+C:\Users\henry.gillinger\vis stud\pokemon\beatemup\beatemup\obj\Debug\net6.0\ref\beatemup.dll
